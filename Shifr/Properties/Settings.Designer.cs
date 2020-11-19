@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace pr_11_01.Properties
+namespace Shifr.Properties
 {
 
 

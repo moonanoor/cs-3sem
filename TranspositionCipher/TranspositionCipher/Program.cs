@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace pr_11_01
+namespace TranspositionCipher
 {
     static class Program
     {

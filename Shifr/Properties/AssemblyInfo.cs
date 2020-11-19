@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // Общие сведения об этой сборке предоставляются следующим набором
 // набора атрибутов. Измените значения этих атрибутов для изменения сведений,
 // связанных со сборкой.
-[assembly: AssemblyTitle("pr-11-01")]
+[assembly: AssemblyTitle("Shifr")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("pr-11-01")]
+[assembly: AssemblyProduct("Shifr")]
 [assembly: AssemblyCopyright("Copyright ©  2020")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // Следующий GUID служит для идентификации библиотеки типов, если этот проект будет видимым для COM
-[assembly: Guid("567ff28a-d7de-409f-9e76-b46e70043767")]
+[assembly: Guid("4e69e479-1a82-43ab-a9ee-b74f7a19dffa")]
 
 // Сведения о версии сборки состоят из указанных ниже четырех значений:
 //
